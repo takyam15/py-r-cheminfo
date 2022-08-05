@@ -1,0 +1,19 @@
+name: cheminfo
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - mkl-service
+  - python=3.7
+  - r-base
+  - r-essentials
+  - r-rlang
+  - r-tidyverse
+  - r-irkernel
+  - r-rstan
+  - r-rstanarm
+  - r-brms
+  - r-bayesplot
+  - r-bayestestr
+  - bioconductor-chemminer
+  - bioconductor-chemminedrugs
