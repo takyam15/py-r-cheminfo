@@ -15,5 +15,9 @@ dependencies:
   - r-brms
   - r-bayesplot
   - r-bayestestr
+  - r-biocmanager
+  - bioconductor-biocgenerics
+  - bioconductor-biocversion
+  - bioconductor-biobase
   - bioconductor-chemminer
   - bioconductor-chemminedrugs
